@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Prodip Hore</h1>
 <h3 align="center">A passionate Computer Engineer from Bangladesh</h3>
 
-<img src="https://media.giphy.com/media/K5kfQExKk731K/giphy.gif" width="300px" align="right" alt="">
+<img src="https://images.squarespace-cdn.com/content/v1/5c299b57e2ccd1899549dc84/1599243349804-BWM994NEV97HLY6KGYI4/01d7176e77aebf3b461562899efcf47f.gif" width="300px" align="right" alt="">
 
 - 🌱 I’m currently learning **DSA, Web Development, JAVA, JS**
 - 💻 I’m currently working as a **Student**
@@ -32,8 +32,9 @@
 ![](https://nirzak-streak-stats.vercel.app/?user=prodip2005&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=prodip2005&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=prodip2005&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+[![](https://github-readme-activity-graph.vercel.app/graph?username=prodip2005&theme=merko)]
+## 🏆GitHub Trophies
+![](https://github-trophies.vercel.app/?username=prodip2005&theme=matrix&no-frame=true&no-bg=true&margin-w=4)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
