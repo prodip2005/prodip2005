@@ -10,7 +10,7 @@
 - 🎨 I have experience in **Frontend and Backend Development** with **React.js, Node.js**
 - 🔐 Skilled in **Web Development**, **Competitive Programming** and familiar with various **security tools**
 - 🤖 Learning  **AI-Integrated Website Development**
-- 📚 Check out my projects on **[Project & work ](https://github.com/prodip2005/First-Responsive-Website.git)**
+- 📚 Check out my projects on **[Project & work ](https://github.com/prodip2005/English-Janala.git)**
 - 👤 Previously interned at **Bluestock Fintech (Frontend Developer)**
 - 💬 Ask me about **C, C++, HTML, CSS3, TailWindCSS, JavaScript, JAVA, React**
 - 📧 Reach me at **prodiphore2005@gmail.com**
