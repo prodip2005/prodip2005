@@ -5,14 +5,14 @@
 
 <img src="https://images.squarespace-cdn.com/content/v1/5c299b57e2ccd1899549dc84/1599243349804-BWM994NEV97HLY6KGYI4/01d7176e77aebf3b461562899efcf47f.gif" width="300px" align="right" alt="">
 
-- 🌱 I’m currently learning **DSA, Web Development, JAVA, JS**
+- 🌱 I’m currently learning **DSA, Web Development, JAVA, JS, Python**
 - 💻 I’m currently working as a **Student**
-- 🎨 I have experience in **Frontend and Backend Development** with **Django, React.js, Node.js, Express.js**
-- 🔐 Skilled in **Website Penetration Testing** and familiar with various **security tools**
+- 🎨 I have experience in **Frontend and Backend Development** with **React.js, Node.js**
+- 🔐 Skilled in **Web Development**, **Competitive Programming** and familiar with various **security tools**
 - 🤖 Learning  **AI-Integrated Website Development**
 - 📚 Check out my projects on **[Project & work ](https://github.com/prodip2005/First-Responsive-Website.git)**
 - 👤 Previously interned at **Bluestock Fintech (Frontend Developer)**
-- 💬 Ask me about **C++, HTML, CSS3, TailWindCSS, JavaScript, JAVA**
+- 💬 Ask me about **C, C++, HTML, CSS3, TailWindCSS, JavaScript, JAVA, React**
 - 📧 Reach me at **prodiphore2005@gmail.com**
 
 
