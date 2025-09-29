@@ -1,6 +1,10 @@
 
 <h1 align="left">About Me:</h1>
-<h1 align="center">Hi 👋, I'm Prodip Hore</h1>
+<h1 align="center">
+  <a href="https://prodip2005.github.io/My-Portfolio-Website/">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hi,+I'm+Prodip+Hore;A+Front-End+developer;And+a+programmer!&center=true&size=30&color=c9d6ff">
+  </a>
+</h1>
 <h3 align="center">A passionate Computer Engineer from Bangladesh</h3>
 
 <img src="https://images.squarespace-cdn.com/content/v1/5c299b57e2ccd1899549dc84/1599243349804-BWM994NEV97HLY6KGYI4/01d7176e77aebf3b461562899efcf47f.gif" width="300px" align="right" alt="">
@@ -44,12 +48,16 @@
   <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
 </div>
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=prodip2005&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=prodip2005&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=prodip2005&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+<div align="center">
+  # 📊 GitHub Stats:
 
+[![Prodip's GitHub stats](https://github-readme-stats.vercel.app/api?username=prodip2005&show_icons=true&card_width=495&custom_title=My+Stats&line_height=29&theme=tokyonight)](https://prodip2005.github.io/My-Portfolio-Website/)
+
+![](https://nirzak-streak-stats.vercel.app/?user=prodip2005&theme=dark&hide_border=false)<br/>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=prodip2005&card_width=495&theme=tokyonight)](https://prodip2005.github.io/My-Portfolio-Website/)
 [![](https://github-readme-activity-graph.vercel.app/graph?username=prodip2005&theme=merko)]
+
 ## 🏆GitHub Trophies
 ![](https://github-trophies.vercel.app/?username=prodip2005&theme=matrix&no-frame=true&no-bg=true&margin-w=4)
 
@@ -62,4 +70,5 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=prodip2005&icon=0&color=0)](https://visitcount.itsvg.in)
 
+</div>
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
