@@ -1,74 +1,93 @@
+<div align="center">
 
-<h1 align="left">About Me:</h1>
-<h1 align="center">
-  <a href="https://prodip2005.github.io/My-Portfolio-Website/">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hi,+I'm+Prodip+Hore;A+Full-Stack+developer;And+a+programmer!&center=true&size=30&color=c9d6ff">
-  </a>
-</h1>
-<h3 align="center">A passionate Computer Engineer from Bangladesh</h3>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0a192f&height=220&section=header&text=Prodip%20Hore&fontSize=75&animation=fadeIn&fontColor=ffffff&fontAlignY=35" width="100%"/>
 
-<img src="https://images.squarespace-cdn.com/content/v1/5c299b57e2ccd1899549dc84/1599243349804-BWM994NEV97HLY6KGYI4/01d7176e77aebf3b461562899efcf47f.gif" width="300px" align="right" alt="">
+<br>
 
-- 🌱 I’m currently learning **DSA, Web Development, JAVA, JS, Python**
-- 💻 I’m currently working as a **Student**
-- 🎨 I have experience in **Frontend and Backend Development** with **React.js, Node.js**
-- 🔐 Skilled in **Web Development**, **Competitive Programming** and familiar with various **security tools**
-- 🤖 Learning  **AI-Integrated Website Development**
-- 📚 Check out my projects on **[Project & work ](https://github.com/prodip2005/English-Janala.git)**
-- 👤 Previously interned at **Bluestock Fintech (Frontend Developer)**
-- 💬 Ask me about **C, C++, HTML, CSS3, TailWindCSS, JavaScript, JAVA, React, Node.JS, Express.JS, Firebase**
-- 📧 Reach me at **prodiphore2005@gmail.com**
+### 💻 MERN Stack Architect | AI & ML Enthusiast
 
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Full+Stack+Web+Developer;PSTU+Undergrad+(CSE);Building+AI-Integrated+Websites;Expert+in+React+%26+Next.js&center=true&width=600&height=45&color=BDD4E7&size=24&vCenter=true&pause=1000">
+</p>
 
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0a192f&height=100&section=footer" width="100%"/>
 
-## 🌐 Socials:
-<a href="https://discord.gg/mhvbb575CK" target="_blank" rel="noopener noreferrer">
-  <img src="https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white" alt="Discord">
-</a>
+## 🧬 Discover My Universe
+<table border="0">
+  <tr>
+    <td width="65%">
+      <p>I am <b>Prodip Hore</b>, a <b>CSE</b> student at <b>PSTU</b>. I specialize in the MERN stack and focus on creating smooth, animated user experiences using modern libraries and motion tools.</p>
+      <p><b>🌍 Languages:</b> Bengali, English</p>
+      <p><b>🏢 Education:</b> Patuakhali Science and Technology University</p>
+      <p><b>📫 Email:</b> <a href="mailto:prodiphore2005@gmail.com">prodiphore2005@gmail.com</a></p>
+    </td>
+    <td width="35%" align="right">
+      <img src="https://raw.githubusercontent.com/Anmol-Baranwal/Anmol-Baranwal/main/assets/developer.gif" width="180px"/>
+    </td>
+  </tr>
+</table>
 
-<a href="https://facebook.com/prodip.shadow.monarch" target="_blank" rel="noopener noreferrer">
-  <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white" alt="Facebook">
-</a>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0a192f&height=100&section=footer" width="100%"/>
 
-<a href="https://linkedin.com/in/prodip-hore-750101337" target="_blank" rel="noopener noreferrer">
-  <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="LinkedIn">
-</a>
+## 🛠️ My Digital Arsenal
 
-<a href="mailto:prodiphore2005@gmail.com" target="_blank" rel="noopener noreferrer">
-  <img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" alt="Email">
-</a>
+### 💻 Programming Languages
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=c,cpp,java,py,js&theme=dark" />
+</p>
 
+### ⚛️ Frameworks
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express&theme=dark" />
+</p>
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Sketch](https://img.shields.io/badge/Sketch-FFB387?style=for-the-badge&logo=sketch&logoColor=black) ![Adobe Lightroom Classic](https://img.shields.io/badge/Adobe%20Lightroom%20Classic-31A8FF.svg?style=for-the-badge&logo=Adobe%20Lightroom%20Classic&logoColor=white) ![Adobe Fonts](https://img.shields.io/badge/Adobe%20Fonts-000B1D.svg?style=for-the-badge&logo=Adobe%20Fonts&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Xbox](https://img.shields.io/badge/xbox-%23107C10.svg?style=for-the-badge&logo=xbox&logoColor=white) ![Steam](https://img.shields.io/badge/steam-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white)
+### 📚 Libraries & UI Kits
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=tailwind,mongodb,firebase,bootstrap&theme=dark" />
+  <img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/000000/external-framer-motion-a-production-ready-motion-library-for-react-logo-color-tal-revivo.png" width="48" title="Framer Motion" alt="Framer Motion"/>
+  <img src="https://raw.githubusercontent.com/saadeghi/files/main/daisyui/logo-4.svg" width="48" title="DaisyUI" alt="DaisyUI"/>
+  <img src="https://user-images.githubusercontent.com/1103298/172350754-0498a4A9-0524-4B78-9B2E-315538B06C13.png" width="48" title="Lottie" alt="Lottie"/>
+</p>
 
-<!-- Snake Game Repo View -->
+### ⚙️ Tools & Design
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=figma,vscode,git,github,npm,postman&theme=dark" />
+</p>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0a192f&height=100&section=footer" width="100%"/>
+
+## 📊 Performance & Milestones
 
 <div align="center">
-  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
+  <img src="https://github-readme-stats.vercel.app/api?username=prodip2005&show_icons=true&theme=tokyonight&bg_color=0a192f&title_color=ffffff&text_color=BDD4E7&icon_color=00d4ff&border_color=0a192f&include_all_commits=true&count_private=true" height="175px" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=prodip2005&layout=compact&theme=tokyonight&bg_color=0a192f&title_color=ffffff&text_color=BDD4E7&border_color=0a192f" height="175px" />
 </div>
+
+<br>
 
 <div align="center">
-  # 📊 GitHub Stats:
+  <img src="https://github-trophies.vercel.app/?username=prodip2005&theme=tokyonight&column=5&margin-w=10&no-bg=true&no-frame=true" width="85%" />
+</div>
 
-[![Prodip's GitHub stats](https://github-readme-stats.vercel.app/api?username=prodip2005&show_icons=true&card_width=495&custom_title=My+Stats&line_height=29&theme=tokyonight)](https://prodip2005.github.io/My-Portfolio-Website/)
+<br>
 
-![](https://nirzak-streak-stats.vercel.app/?user=prodip2005&theme=dark&hide_border=false)<br/>
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=prodip2005&theme=night-owl&bg_color=0a192f&color=BDD4E7&line=00d4ff&point=ffffff&area=true&hide_border=true" width="100%" />
+</div>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=prodip2005&card_width=495&theme=tokyonight)](https://prodip2005.github.io/My-Portfolio-Website/)
-[![](https://github-readme-activity-graph.vercel.app/graph?username=prodip2005&theme=merko)]
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0a192f&height=100&section=footer" width="100%"/>
 
-## 🏆GitHub Trophies
-![](https://github-trophies.vercel.app/?username=prodip2005&theme=matrix&no-frame=true&no-bg=true&margin-w=4)
+## 🤝 Let's Connect
+<p align="center">
+  <a href="https://linkedin.com/in/prodip-hore-750101337"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://facebook.com/prodip.shadow.monarch"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" /></a>
+  <a href="mailto:prodiphore2005@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+</p>
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=prodip2005&color=0a192f&style=flat-square&label=RADAR+VIEWS" />
+</p>
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=prodip2005&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
----
-[![](https://visitcount.itsvg.in/api?id=prodip2005&icon=0&color=0)](https://visitcount.itsvg.in)
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0a192f&height=100&section=footer" width="100%"/>
 
 </div>
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
