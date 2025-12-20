@@ -33,7 +33,7 @@
 
 ### 💻 Programming Languages
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=c,cpp,java,py,js&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=c,cpp,java,js&theme=dark" />
 </p>
 
 ### ⚛️ Frameworks
