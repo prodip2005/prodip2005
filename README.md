@@ -22,7 +22,7 @@
       <p><b>📫 Email:</b> <a href="mailto:prodiphore2005@gmail.com">prodiphore2005@gmail.com</a></p>
     </td>
     <td width="35%" align="right">
-      <img src="https://raw.githubusercontent.com/Anmol-Baranwal/Anmol-Baranwal/main/assets/developer.gif" width="180px"/>
+      <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMWloODY1eDR3amFtNm94d3I2YWp6YnRhcTRrZnNjYXJvOHNwdjR6diZlcD12MV9naWZzX3NlYXJjaCZjdD1n/IMOTcqOtaEkXiBonLU/giphy.gif" width="350px"/>
     </td>
   </tr>
 </table>
@@ -43,10 +43,11 @@
 
 ### 📚 Libraries & UI Kits
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=tailwind,mongodb,firebase,bootstrap&theme=dark" />
-  <img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/000000/external-framer-motion-a-production-ready-motion-library-for-react-logo-color-tal-revivo.png" width="48" title="Framer Motion" alt="Framer Motion"/>
-  <img src="https://raw.githubusercontent.com/saadeghi/files/main/daisyui/logo-4.svg" width="48" title="DaisyUI" alt="DaisyUI"/>
-  <img src="https://user-images.githubusercontent.com/1103298/172350754-0498a4A9-0524-4B78-9B2E-315538B06C13.png" width="48" title="Lottie" alt="Lottie"/>
+  <img src="https://skillicons.dev/icons?i=tailwind,mongodb,firebase&theme=dark" />
+  
+  <img src="https://www.vectorlogo.zone/logos/framer/framer-icon.svg" width="48" height="48" title="Framer Motion" alt="Framer Motion"/>
+  
+  <img src="https://raw.githubusercontent.com/saadeghi/files/main/daisyui/logo-4.svg" width="60" height="100" title="DaisyUI" alt="DaisyUI"/>
 </p>
 
 ### ⚙️ Tools & Design
