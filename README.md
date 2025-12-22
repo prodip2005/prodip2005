@@ -38,14 +38,15 @@
 
 ### ⚛️ Frameworks
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=tailwind,nextjs,express&theme=dark" />
+  <img src="https://www.vectorlogo.zone/logos/framer/framer-icon.svg" width="48" height="48" title="Framer Motion" alt="Framer Motion"/>
 </p>
 
-### 📚 Libraries & UI Kits
+### 📚 Libraries, Database & UI Kits
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=tailwind,mongodb,firebase&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=react,mongodb,nodejs,firebase&theme=dark" />
   
-  <img src="https://www.vectorlogo.zone/logos/framer/framer-icon.svg" width="48" height="48" title="Framer Motion" alt="Framer Motion"/>
+  
   
   <img src="https://raw.githubusercontent.com/saadeghi/files/main/daisyui/logo-4.svg" width="60" height="100" title="DaisyUI" alt="DaisyUI"/>
 </p>
