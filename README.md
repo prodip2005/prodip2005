@@ -15,17 +15,30 @@
 ## 🧬 Discover My Universe
 <table border="0">
   <tr>
-    <td width="65%">
-      <p>I am <b>Prodip Hore</b>, a <b>CSE</b> student at <b>PSTU</b>. I specialize in the MERN stack and focus on creating smooth, animated user experiences using modern libraries and motion tools.</p>
-      <p><b>🌍 Languages:</b> Bengali, English</p>
-      <p><b>🏢 Education:</b> Patuakhali Science and Technology University</p>
-      <p><b>📫 Email:</b> <a href="mailto:prodiphore2005@gmail.com">prodiphore2005@gmail.com</a></p>
+    <td width="65%" valign="top">
+      <p align="left">
+        I am <b>Prodip Hore</b>, a <b>CSE</b> student at <b>PSTU</b>. I specialize in the MERN stack and focus on creating smooth, animated user experiences using modern libraries and motion tools.
+      </p>
+      <p align="left">
+        <b>🚀 Current Activities:</b><br>
+        &nbsp;&nbsp;•&nbsp; <b>Learning:</b> Deep diving into <b>Next.js</b> for performance and SEO.<br>
+        &nbsp;&nbsp;•&nbsp; <b>Animation:</b> Integrating <b>Lottie</b> and <b>Framer Motion</b> for interactive UI.<br>
+        &nbsp;&nbsp;•&nbsp; <b>Project:</b> Developing a <b>University CGPA Calculator</b> web application.<br>
+        &nbsp;&nbsp;•&nbsp; <b>Skill Up:</b> Enhancing <b>MERN Stack</b> and exploring <b>TypeScript</b>.<br>
+      <p align="left">
+        <b>🌍 Languages:</b> Bengali, English<br>
+        <b>🏢 Education:</b> Patuakhali Science and Technology University<br>
+        <b>📫 Email:</b> <a href="mailto:prodiphore2005@gmail.com">prodiphore2005@gmail.com</a>
+      </p>
     </td>
-    <td width="35%" align="right">
-      <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMWloODY1eDR3amFtNm94d3I2YWp6YnRhcTRrZnNjYXJvOHNwdjR6diZlcD12MV9naWZzX3NlYXJjaCZjdD1n/IMOTcqOtaEkXiBonLU/giphy.gif" width="350px"/>
+    <td width="35%" align="right" valign="top">
+      <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMWloODY1eDR3amFtNm94d3I2YWp6YnRhcTRrZnNjYXJvOHNwdjR6diZlcD12MV9naWZzX3NlYXJjaCZjdD1n/IMOTcqOtaEkXiBonLU/giphy.gif" width="300px" style="max-width: 100%; display: block; margin-left: auto;"/>
     </td>
   </tr>
 </table>
+
+
+
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0a192f&height=100&section=footer" width="100%"/>
 
